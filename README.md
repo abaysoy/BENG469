@@ -1,6 +1,7 @@
 # BENG469 - Lab 8 
 
 # snapATAC environment setup 
+
 salloc 
 module load miniconda 
 conda create -y -n snapATAC python=3.10
