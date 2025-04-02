@@ -49,7 +49,7 @@ cd Lab8
 cp -r /vast/palmer/scratch/beng469/beng469_aeb98/ATAC_RNA_Analysis_Workshop ./
 ```
 
-## SnapATAC2 Pipeline for ATAC data processing 
+## SnapATAC Pipeline for ATAC data processing 
 Start Jupyter notebook with SnapATAC pipeline \
 
 | **Parameters**      | **Values** |
