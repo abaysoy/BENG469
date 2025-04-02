@@ -29,8 +29,7 @@ ycrc_conda_env.sh update
 First, Copy ATAC_RNA_Analysis_Workshop over to your Lab8 folder - the scripts are in 02.Scripts. 
 ```
 cd project
-mkdir Lab8
-cd Lab8
+mkdir Lab9 && cd Lab9
 cp -r /vast/palmer/scratch/beng469/beng469_aeb98/ATAC_RNA_Analysis_Workshop ./
 ```
 
