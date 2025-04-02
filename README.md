@@ -38,7 +38,7 @@ pip install torch scanpy==1.9.1 anndata==0.8.0 rpy2==3.4.1 scikit-learn==1.1.1 t
 ycrc_conda_env.sh update
 ```
 
-```
+
 
 ## Copy over the data 
 First, Copy ATAC_RNA_Analysis_Workshop over to your Lab8 folder - the scripts are in 02.Scripts. 
@@ -52,6 +52,12 @@ cp -r /vast/palmer/scratch/beng469/beng469_aeb98/ATAC_RNA_Analysis_Workshop ./
 ## SnapATAC2 Pipeline for ATAC data processing 
 Start Jupyter notebook with SnapATAC pipeline \
 
+| **Parameters**      | **Values** |
+| ----------- | ----------- |
+| Number of hours   | 6        |
+| Number of CPU cores per node   | 1        |
+| Memory per CPU core in GiB   | 32       |
+| Partitions   |  day / education     |
 
 ![Screenshot 2025-04-02 at 10 26 30 AM](https://github.com/user-attachments/assets/1c6ce0e6-4c45-4fbf-a550-edc10b6a1648) \
 
