@@ -49,9 +49,8 @@ cd Lab8
 cp -r /vast/palmer/scratch/beng469/beng469_aeb98/ATAC_RNA_Analysis_Workshop ./
 ```
 
-| Parameters      | Values |
+| **Parameters**      | **Values** |
 | ----------- | ----------- |
-| R version      | R/4.2.0-foss-2020b       |
 | Number of hours   | 6        |
 | Number of CPU cores per node   | 1        |
 | Memory per CPU core in GiB   | 32       |
