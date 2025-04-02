@@ -51,13 +51,14 @@ cp -r /vast/palmer/scratch/beng469/beng469_aeb98/ATAC_RNA_Analysis_Workshop ./
 
 ## SnapATAC2 Pipeline for ATAC data processing 
 Start Jupyter notebook with SnapATAC pipeline \
+
 | Parameters      | Values |
 | ----------- | ----------- |
 | R version      | R/4.2.0-foss-2020b       |
 | Number of hours   | 6        |
 | Number of CPU cores per node   | 1        |
 | Memory per CPU core in GiB   | 32       |
-| Partitions   | devel / day / education     |
+| Partitions   |  day / education     |
 
 ![Screenshot 2025-04-02 at 10 26 30 AM](https://github.com/user-attachments/assets/1c6ce0e6-4c45-4fbf-a550-edc10b6a1648) \
 
