@@ -27,7 +27,12 @@ ycrc_conda_env.sh update
 
 ## Copy over the data 
 First, Copy ATAC_RNA_Analysis_Workshop over to your Lab8 folder - the scripts are in 02.Scripts. 
-``` /gpfs/gibbs/project/beng469/beng469_aeb98/Lab8/ATAC_RNA_Analysis_Workshop ```
+```
+cd project
+mkdir Lab8
+cd Lab8
+cp -r /gpfs/gibbs/project/beng469/beng469_aeb98/Lab8/ATAC_RNA_Analysis_Workshop ./
+```
 
 ## SnapATAC2 Pipeline for ATAC data processing 
 Start Jupyter notebook with SnapATAC pipeline \
