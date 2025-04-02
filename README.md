@@ -32,7 +32,7 @@ First, Copy ATAC_RNA_Analysis_Workshop over to your Lab8 folder - the scripts ar
 Start Jupyter notebook with SnapATAC pipeline \
 ![Screenshot 2025-04-02 at 10 26 30 AM](https://github.com/user-attachments/assets/1c6ce0e6-4c45-4fbf-a550-edc10b6a1648) \
 
-1. Under 02.Scripts, open up 1-SnapATAC.ipynb
+1. Under 02.Scripts, open up 1-SnapATAC_011525.ipynb
 
 
 # SpatialGlue Lab 
