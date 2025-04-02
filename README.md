@@ -49,13 +49,6 @@ cd Lab8
 cp -r /vast/palmer/scratch/beng469/beng469_aeb98/ATAC_RNA_Analysis_Workshop ./
 ```
 
-| **Parameters**      | **Values** |
-| ----------- | ----------- |
-| Number of hours   | 6        |
-| Number of CPU cores per node   | 1        |
-| Memory per CPU core in GiB   | 32       |
-| Partitions   |  day / education     |
-
 ## SnapATAC2 Pipeline for ATAC data processing 
 Start Jupyter notebook with SnapATAC pipeline \
 
@@ -67,3 +60,12 @@ Start Jupyter notebook with SnapATAC pipeline \
 
 ## SpatialGlue Lab 
 1. Under 02.Scripts, open up 2-SpatialGlue.ipynb
+
+
+| **Parameters**      | **Values** |
+| ----------- | ----------- |
+| Number of hours   | 6        |
+| Number of CPU cores per node   | 1        |
+| Memory per CPU core in GiB   | 32       |
+| Partitions   |  day / education     |
+
