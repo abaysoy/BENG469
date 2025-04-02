@@ -62,10 +62,3 @@ Start Jupyter notebook with SnapATAC pipeline \
 1. Under 02.Scripts, open up 2-SpatialGlue.ipynb
 
 
-| **Parameters**      | **Values** |
-| ----------- | ----------- |
-| Number of hours   | 6        |
-| Number of CPU cores per node   | 1        |
-| Memory per CPU core in GiB   | 32       |
-| Partitions   |  day / education     |
-
