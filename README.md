@@ -1,6 +1,7 @@
 # BENG469 - Lab 8 
 
-# snapATAC environment setup 
+# Pre-Class Tasks
+## SnapATAC environment setup 
 
 ```
 salloc  
@@ -12,7 +13,7 @@ pip install anndata==0.8.0 snapatac2==2.4.0 scanpy==1.9.3 scipy pandas==1.5.3 nu
 ycrc_conda_env.sh update
 ```
 
-# SpatialGlue environment setup 
+##  SpatialGlue environment setup 
 ```
 salloc  
 module load miniconda  
@@ -24,16 +25,17 @@ pip install torch scanpy==1.9.1 anndata==0.8.0 rpy2==3.4.1 scikit-learn==1.1.1 t
 ycrc_conda_env.sh update
 
 ```
-# Copy over the data 
+# In-Class
+## Copy over the data 
 First, Copy ATAC_RNA_Analysis_Workshop over to your Lab8 folder - the scripts are in 02.Scripts. 
 ``` /home/beng469_aeb98/project/Lab8/ATAC_RNA_Analysis_Workshop ```
 
-# SnapATAC2 Pipeline for ATAC data processing 
+## SnapATAC2 Pipeline for ATAC data processing 
 Start Jupyter notebook with SnapATAC pipeline \
 ![Screenshot 2025-04-02 at 10 26 30 AM](https://github.com/user-attachments/assets/1c6ce0e6-4c45-4fbf-a550-edc10b6a1648) \
 
 1. Under 02.Scripts, open up 1-SnapATAC_011525.ipynb
 
 
-# SpatialGlue Lab 
+## SpatialGlue Lab 
 1. Under 02.Scripts, open up 2-SpatialGlue.ipynb
