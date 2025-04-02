@@ -38,9 +38,9 @@ Start Jupyter notebook with SnapATAC pipeline \
 
 | **Parameters**      | **Values** |
 | ----------- | ----------- |
-| Number of hours   | 6        |
+| Number of hours   | 2        |
 | Number of CPU cores per node   | 1        |
-| Memory per CPU core in GiB   | 32       |
+| Memory per CPU core in GiB   | 16       |
 | Partitions   |  day / education     |
 
 ![Screenshot 2025-04-02 at 10 26 30 AM](https://github.com/user-attachments/assets/1c6ce0e6-4c45-4fbf-a550-edc10b6a1648) \
