@@ -1,6 +1,5 @@
 # BENG469 - Lab 8 
 
-# Pre-Class Tasks
 ## SnapATAC environment setup 
 
 ```
@@ -25,7 +24,7 @@ pip install torch scanpy==1.9.1 anndata==0.8.0 rpy2==3.4.1 scikit-learn==1.1.1 t
 ycrc_conda_env.sh update
 
 ```
-# In-Class
+
 ## Copy over the data 
 First, Copy ATAC_RNA_Analysis_Workshop over to your Lab8 folder - the scripts are in 02.Scripts. 
 ``` /home/beng469_aeb98/project/Lab8/ATAC_RNA_Analysis_Workshop ```
