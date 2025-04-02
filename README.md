@@ -19,5 +19,10 @@ conda activate spatialglue
 pip install torch scanpy==1.9.1 anndata==0.8.0 rpy2==3.4.1 scikit-learn==1.1.1 tqdm==4.64.0 matplotlib==3.4.2 scipy==1.8.1 pandas==1.4.2 SpatialGlue==1.1.2 scikit-misc==0.2.0 jupyter notebook\
 ycrc_conda_env.sh update
 
-# SnapATAC2 Pipeline 
-## First, Copy files over a
+# Copy over the data 
+First, Copy ATAC_RNA_Analysis_Workshop over to your Lab8 folder - the scripts are in 02.Scripts. 
+/home/beng469_aeb98/project/Lab8/ATAC_RNA_Analysis_Workshop 
+
+# SnapATAC2 Pipeline for ATAC data processing 
+Start Jupyter notebook with SnapATAC pipeline 
+![Screenshot 2025-04-02 at 10 26 30 AM](https://github.com/user-attachments/assets/1c6ce0e6-4c45-4fbf-a550-edc10b6a1648)
