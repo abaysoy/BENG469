@@ -25,6 +25,7 @@ ycrc_conda_env.sh update
 
 
 
+
 ## Copy over the data 
 First, Copy ATAC_RNA_Analysis_Workshop over to your Lab9 folder - the scripts are in 02.Scripts. 
 ```
@@ -47,7 +48,7 @@ Start Jupyter notebook with SnapATAC pipeline \
 | Memory per CPU core in GiB   | 16       |
 | Partitions   |  day / education     |
 
-![Screenshot 2025-04-02 at 10 26 30 AM](https://github.com/user-attachments/assets/1c6ce0e6-4c45-4fbf-a550-edc10b6a1648) \
+<img width="520" alt="Screenshot 2025-04-03 at 12 18 26 PM" src="https://github.com/user-attachments/assets/38393b34-5cfc-43b4-a54c-ba735afe742d" /> \
 
 1. Under 02.Scripts, open up 1-SnapATAC.ipynb
 
