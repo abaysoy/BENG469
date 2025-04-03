@@ -28,7 +28,6 @@ ycrc_conda_env.sh update
 ## Copy over the data 
 First, Copy ATAC_RNA_Analysis_Workshop over to your Lab9 folder - the scripts are in 02.Scripts. 
 ```
-```
 cd project
 ```
 ```
