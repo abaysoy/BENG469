@@ -9,7 +9,7 @@ salloc
 module load miniconda
 ```
 ```
-conda create -y -n snapATAC_SpatialGlue python=3.10
+conda create -y -n snapATAC_SpatialGlue r-base python=3.10
 ```
 ```
 conda activate snapATAC_SpatialGlue
