@@ -1,5 +1,5 @@
 # Lab 10 
-## create environment 
+## Create environment for maxfuse
 ```
 salloc
 ```
