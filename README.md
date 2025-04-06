@@ -16,11 +16,9 @@ conda create -n maxfuse python=3.8
 conda activate maxfuse
 ```
 ```
-python -m pip install maxfuse
+python -m pip install maxfuse jupyter notebook 
 ```
-```
-pip install jupyter
-```
+
 ```
 module purge
 ```
