@@ -25,7 +25,11 @@ module purge
 ```
 ycrc_conda_env.sh update
 ```
-## Create Folder for Lab10 
+## Copy over the data 
 ```
-mkdir Lab10
-``` 
+cd project 
+```
+
+```
+cp -r /vast/palmer/scratch/beng469/beng469_aeb98/Lab10 ./
+```
