@@ -23,6 +23,9 @@ python -m pip install maxfuse jupyter notebook
 module purge
 ```
 ```
-
 ycrc_conda_env.sh update
 ```
+## Create Folder for Lab10 
+```
+mkdir Lab10
+``` 
