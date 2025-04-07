@@ -10,7 +10,7 @@ module load miniconda
 git clone https://github.com/shuxiaoc/maxfuse.git
 ```
 ```
-conda create -n maxfuse python=3.8
+conda create -y -n maxfuse python=3.8
 ```
 ```
 conda activate maxfuse
