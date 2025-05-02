@@ -15,7 +15,7 @@ conda create -y -n snapATAC_SpatialGlue r-base python=3.10
 conda activate snapATAC_SpatialGlue
 ```
 ```
-pip install anndata==0.8.0 snapatac2==2.8.0 scanpy scipy pandas numpy==1.24.3  rpy2==3.4.1 scikit-learn==1.1.1 tqdm==4.64.0 matplotlib SpatialGlue==1.1.2 scikit-misc==0.2.0 torch jupyter notebook
+pip install anndata==0.8.0 snapatac2==2.8.0 scanpy scipy pandas numpy==1.24.3  rpy2==3.4.1 scikit-learn==1.1.1 tqdm==4.64.0 matplotlib magic-impute SpatialGlue==1.1.2 scikit-misc==0.2.0 torch jupyter notebook
 ```
 ```
 ycrc_conda_env.sh update
